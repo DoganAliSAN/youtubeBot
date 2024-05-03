@@ -1,0 +1,2 @@
+Python Version: 3.10.9
+Pip Version: 23.2.1
